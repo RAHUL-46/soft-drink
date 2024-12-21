@@ -23,7 +23,7 @@ const NavbarMenu = [
   },
   {
     id: 4,
-    title: "About",
+    title: "rahul",
     link: "#",
   },
   {
