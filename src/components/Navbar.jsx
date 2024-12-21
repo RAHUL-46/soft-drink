@@ -18,12 +18,12 @@ const NavbarMenu = [
   },
   {
     id: 3,
-    title: "hello",
+    title: "Blog",
     link: "#",
   },
   {
     id: 4,
-    title: "rahul",
+    title: "About",
     link: "#",
   },
   {
